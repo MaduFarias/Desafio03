@@ -30,15 +30,5 @@ Sistema dificuldade + escolha de numero
   - Definir sistema de escolha de dificuldade 
 
 Jogo 
-- Classe jogo recebe o número 
-- Informa as regras do jogo 
-- Espaço para digitar chute 
-- Sistema de maior ou menor 
-- Sistema de tentativas 
-
-Pontuação, chutes e erro 
-
-Saída 
-
 
 
